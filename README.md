@@ -1,6 +1,6 @@
 # 基础
 #### 编译原理
-[大前端开发者需要了解的基础编译原理和语言知识](https://juejin.im/post/594e77ef5188250d9e6504bc#heading-14)
+- [大前端开发者需要了解的基础编译原理和语言知识](https://juejin.im/post/594e77ef5188250d9e6504bc#heading-14)
 #### 语言
 **Objective-C**
 
@@ -33,38 +33,38 @@
 - [禅与 Objective-C 编程艺术](https://github.com/oa414/objc-zen-book-cn)
 
 **Swift**
-[Swift 进阶](https://www.objccn.io/products/advanced-swift/)
-[函数式Swift](https://www.objccn.io/products/functional-swift/)
-[【基本功】深入剖析Swift性能优化](https://juejin.im/post/5bdbdc876fb9a049f36186c3#heading-12)
-[深入理解 Swift 派发机制](https://kemchenj.github.io/2016-12-25-1/)
-[从 Swift 的面向协议编程说开去](https://gold.xitu.io/post/5831af478ac2470061be93cc)
-[面向协议编程与 Cocoa 的邂逅](https://onevcat.com/2016/11/pop-cocoa-1/)
+- [Swift 进阶](https://www.objccn.io/products/advanced-swift/)
+- [函数式Swift](https://www.objccn.io/products/functional-swift/)
+- [【基本功】深入剖析Swift性能优化](https://juejin.im/post/5bdbdc876fb9a049f36186c3#heading-12)
+- [深入理解 Swift 派发机制](https://kemchenj.github.io/2016-12-25-1/)
+- [从 Swift 的面向协议编程说开去](https://gold.xitu.io/post/5831af478ac2470061be93cc)
+- [面向协议编程与 Cocoa 的邂逅](https://onevcat.com/2016/11/pop-cocoa-1/)
 
 #### 图形渲染
 **AutoLayout**
-[高性能 Auto Layout](https://juejin.im/post/5b1ea5046fb9a01e2b2cc4a7)
-[从 Auto Layout 的布局算法谈性能](https://gold.xitu.io/post/57c6e4ec0a2b58006c123da6)
+- [高性能 Auto Layout](https://juejin.im/post/5b1ea5046fb9a01e2b2cc4a7)
+- [从 Auto Layout 的布局算法谈性能](https://gold.xitu.io/post/57c6e4ec0a2b58006c123da6)
 **Runloop**
-[深入理解RunLoop](https://blog.ibireme.com/2015/05/18/runloop/)
+- [深入理解RunLoop](https://blog.ibireme.com/2015/05/18/runloop/)
 **触摸事件机制**
-[iOS触摸事件全家桶](http://www.jianshu.com/p/c294d1bd963d)
-[iOS 事件处理机制与图像渲染过程](http://www.jianshu.com/p/8459cdfc77fe)
+- [iOS触摸事件全家桶](http://www.jianshu.com/p/c294d1bd963d)
+- [iOS 事件处理机制与图像渲染过程](http://www.jianshu.com/p/8459cdfc77fe)
 **图形绘制**
-[绘制像素到屏幕上](https://www.objccn.io/issue-3-1/)
-[iOS 保持界面流畅的技巧](http://blog.ibireme.com/2015/11/12/smooth_user_interfaces_for_ios/)
-[iOS-Core-Animation-Advanced-Techniques](https://github.com/AttackOnDobby/iOS-Core-Animation-Advanced-Techniques)
+- [绘制像素到屏幕上](https://www.objccn.io/issue-3-1/)
+- [iOS 保持界面流畅的技巧](http://blog.ibireme.com/2015/11/12/smooth_user_interfaces_for_ios/)
+- [iOS-Core-Animation-Advanced-Techniques](https://github.com/AttackOnDobby/iOS-Core-Animation-Advanced-Techniques)
 **文本绘制**
-[CoreText实现图文混排](http://www.jianshu.com/p/6db3289fb05d)
+- [CoreText实现图文混排](http://www.jianshu.com/p/6db3289fb05d)
 **图片处理**
-[iOS中的imageIO与image解码](http://blog.mrriddler.com/2016/07/20/iOS%E4%B8%AD%E7%9A%84imageIO%E4%B8%8Eimage%E8%A7%A3%E7%A0%81/)待更新
-[iOS 处理图片的一些小 Tip](https://blog.ibireme.com/2015/11/02/ios_image_tips/)
-[谈谈 iOS 中图片的解压缩](http://blog.leichunfeng.com/blog/2017/02/20/talking-about-the-decompression-of-the-image-in-ios/#jtss-tsina)
-[Image Resizing Techniques](http://nshipster.com/image-resizing/)
-[WWDC2018 图像最佳实践 Image and Graphics Best Practices](https://techblog.toutiao.com/2018/06/19/untitled-42/)
+- [iOS中的imageIO与image解码](http://blog.mrriddler.com/2016/07/20/iOS%E4%B8%AD%E7%9A%84imageIO%E4%B8%8Eimage%E8%A7%A3%E7%A0%81/)待更新
+- [iOS 处理图片的一些小 Tip](https://blog.ibireme.com/2015/11/02/ios_image_tips/)
+- [谈谈 iOS 中图片的解压缩](http://blog.leichunfeng.com/blog/2017/02/20/talking-about-the-decompression-of-the-image-in-ios/#jtss-tsina)
+- [Image Resizing Techniques](http://nshipster.com/image-resizing/)
+- [WWDC2018 图像最佳实践 Image and Graphics Best Practices](https://techblog.toutiao.com/2018/06/19/untitled-42/)
 **优化**
-[离屏渲染优化详解](http://www.jianshu.com/p/ca51c9d3575b)
-[iOS 性能调优](http://www.jianshu.com/p/05b68c84913a)
-[UIKit 性能调优(主要是UITableView)](https://bestswifter.com/uikitxing-neng-diao-you-shi-zhan-jiang-jie/)
+- [离屏渲染优化详解](http://www.jianshu.com/p/ca51c9d3575b)
+- [iOS 性能调优](http://www.jianshu.com/p/05b68c84913a)
+- [UIKit 性能调优(主要是UITableView)](https://bestswifter.com/uikitxing-neng-diao-you-shi-zhan-jiang-jie/)
 
 #### 音视频多媒体
 **视频**
