@@ -1,8 +1,16 @@
 # 基础
-#### 编译原理
+## 编译原理
 - [大前端开发者需要了解的基础编译原理和语言知识](https://juejin.im/post/594e77ef5188250d9e6504bc#heading-14)
-#### 语言
-**Objective-C**
+
+## 算法
+- [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club)
+- [LeetCode](https://leetcode-cn.com/)
+
+## 计算机系统
+- [深入理解计算机系统](https://book.douban.com/subject/26912767/)
+
+## 语言
+### Objective-C
 
 ###### NSObject
 - [Objc 对象的今生今世](https://www.jianshu.com/p/f725d2828a2f)
@@ -32,7 +40,7 @@
 ###### 编码指南
 - [禅与 Objective-C 编程艺术](https://github.com/oa414/objc-zen-book-cn)
 
-**Swift**
+### Swift
 - [Swift 进阶](https://www.objccn.io/products/advanced-swift/)
 - [函数式Swift](https://www.objccn.io/products/functional-swift/)
 - [【基本功】深入剖析Swift性能优化](https://juejin.im/post/5bdbdc876fb9a049f36186c3#heading-12)
@@ -118,10 +126,6 @@ https
 **优化**
 [移动 APP 网络优化概述](https://blog.cnbang.net/tech/3531/)
 [iOS 客户端 HTTPS 防中间人攻击实践](http://www.jianshu.com/p/70f17cc7b1df)
-
-#### 算法
-[swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club)
-[LeetCode](https://leetcode-cn.com/)
 
 # 工程
 #### 代码规范
