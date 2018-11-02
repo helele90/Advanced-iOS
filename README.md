@@ -1,19 +1,19 @@
-## 基础
-### 编译原理
+# 基础
+## 编译原理
 - [大前端开发者需要了解的基础编译原理和语言知识](https://juejin.im/post/594e77ef5188250d9e6504bc#heading-14)
 
-### 算法
+## 算法
 - [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club)
 - [LeetCode](https://leetcode-cn.com/)
 
-### 计算机系统
+## 计算机系统
 - [深入理解计算机系统](https://book.douban.com/subject/26912767/)
 
-### 网络
+## 网络
 ###### TCP/IP
-[TCP/IP](https://juejin.im/post/5a2ff1126fb9a04522077b44)
+- [TCP/IP](https://juejin.im/post/5a2ff1126fb9a04522077b44)
 ###### WebSocket
-[全双工通信的 WebSocket](https://github.com/halfrost/Halfrost-Field/blob/master/contents/Protocol/WebSocket.md)
+- [全双工通信的 WebSocket](https://github.com/halfrost/Halfrost-Field/blob/master/contents/Protocol/WebSocket.md)
 ###### 即时通讯
 - [iOS即时通讯，从入门到“放弃”？](http://www.jianshu.com/p/2dbb360886a8)
 - [IM 即时通讯技术在多应用场景下的技术实现，以及性能调优](http://www.jianshu.com/p/8cd908148f9e)
@@ -35,7 +35,7 @@
 - [移动 APP 网络优化概述](https://blog.cnbang.net/tech/3531/)
 - [iOS 客户端 HTTPS 防中间人攻击实践](http://www.jianshu.com/p/70f17cc7b1df)
 
-### 语言
+## 语言
 #### Objective-C
 
 ###### NSObject
@@ -59,9 +59,6 @@
 - [iOS 深入理解KVO实现](https://juejin.im/post/58f9ffe261ff4b006655238f)
 ###### 其他
 - [NSProxy](http://zhangbuhuai.com/nsproxy/)
-<!--
-[NSMutableArray原理揭露](http://blog.joyingx.me/2015/05/03/NSMutableArray%20%E5%8E%9F%E7%90%86%E6%8F%AD%E9%9C%B2/)
--->
 - [NSHash​Table & NSMap​Table](http://nshipster.cn/nshashtable-and-nsmaptable/)
 
 #### Swift
@@ -72,8 +69,8 @@
 - [从 Swift 的面向协议编程说开去](https://gold.xitu.io/post/5831af478ac2470061be93cc)
 - [面向协议编程与 Cocoa 的邂逅](https://onevcat.com/2016/11/pop-cocoa-1/)
 
-## iOS
-#### 图形渲染
+# iOS
+### 图形渲染
 ######AutoLayout
 - [高性能 Auto Layout](https://juejin.im/post/5b1ea5046fb9a01e2b2cc4a7)
 - [从 Auto Layout 的布局算法谈性能](https://gold.xitu.io/post/57c6e4ec0a2b58006c123da6)
