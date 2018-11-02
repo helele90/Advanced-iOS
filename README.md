@@ -1,13 +1,40 @@
-# 基础
-## 编译原理
+## 基础
+### 编译原理
 - [大前端开发者需要了解的基础编译原理和语言知识](https://juejin.im/post/594e77ef5188250d9e6504bc#heading-14)
 
-## 算法
+### 算法
 - [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club)
 - [LeetCode](https://leetcode-cn.com/)
 
-## 计算机系统
+### 计算机系统
 - [深入理解计算机系统](https://book.douban.com/subject/26912767/)
+
+### 网络
+##### TCP/IP
+[TCP/IP](https://juejin.im/post/5a2ff1126fb9a04522077b44)
+###### WebSocket
+[全双工通信的 WebSocket](https://github.com/halfrost/Halfrost-Field/blob/master/contents/Protocol/WebSocket.md)
+##### 即时通讯
+[iOS即时通讯，从入门到“放弃”？](http://www.jianshu.com/p/2dbb360886a8)
+[IM 即时通讯技术在多应用场景下的技术实现，以及性能调优](http://www.jianshu.com/p/8cd908148f9e)
+[从零开发移动端IM](http://www.52im.net/forum.php?mod=viewthread&tid=464&extra=page%3D1%26filter%3Ddigest%26digest%3D1%26orderby%3Dlastpost)
+###### HTTP/2
+[HTTP/2 简介](https://developers.google.com/web/fundamentals/performance/http2/?hl=zh-cn)
+[http 2.0](https://www.gitbook.com/book/ye11ow/http2-explained)
+[HTTP,HTTP2.0,SPDY,HTTPS你应该知道的一些事](http://www.alloyteam.com/2016/07/httphttp2-0spdyhttps-reading-this-is-enough/)
+#### HTTPS
+https
+[TLS 1.3](https://zhuanlan.zhihu.com/p/28850798)
+#### 数据传输格式
+[高效的数据压缩编码方式 Protobuf](https://github.com/halfrost/Halfrost-Field/blob/master/contents/Protocol/Protocol-buffers-encode.md)
+#### 加密
+[网络传输安全](http://mrpeak.cn/blog/encrypt/)
+[移动端的加解密](http://talkingdata.me/2016/06/22/encryption/)
+#### QUIC
+[科普：QUIC协议原理分析](https://zhuanlan.zhihu.com/p/32553477)
+#### 优化
+[移动 APP 网络优化概述](https://blog.cnbang.net/tech/3531/)
+[iOS 客户端 HTTPS 防中间人攻击实践](http://www.jianshu.com/p/70f17cc7b1df)
 
 ## 语言
 ### Objective-C
@@ -100,32 +127,6 @@
 #### 存储
 **SQLite**
 **Core Data**
-#### 网络
-**TCP/IP**
-[TCP/IP](https://juejin.im/post/5a2ff1126fb9a04522077b44)
-**WebSocket**
-[全双工通信的 WebSocket](https://github.com/halfrost/Halfrost-Field/blob/master/contents/Protocol/WebSocket.md)
-**即时通讯**
-[iOS即时通讯，从入门到“放弃”？](http://www.jianshu.com/p/2dbb360886a8)
-[IM 即时通讯技术在多应用场景下的技术实现，以及性能调优](http://www.jianshu.com/p/8cd908148f9e)
-[从零开发移动端IM](http://www.52im.net/forum.php?mod=viewthread&tid=464&extra=page%3D1%26filter%3Ddigest%26digest%3D1%26orderby%3Dlastpost)
-**HTTP/2**
-[HTTP/2 简介](https://developers.google.com/web/fundamentals/performance/http2/?hl=zh-cn)
-[http 2.0](https://www.gitbook.com/book/ye11ow/http2-explained)
-[HTTP,HTTP2.0,SPDY,HTTPS你应该知道的一些事](http://www.alloyteam.com/2016/07/httphttp2-0spdyhttps-reading-this-is-enough/)
-**HTTPS**
-https
-[TLS 1.3](https://zhuanlan.zhihu.com/p/28850798)
-**数据传输格式**
-[高效的数据压缩编码方式 Protobuf](https://github.com/halfrost/Halfrost-Field/blob/master/contents/Protocol/Protocol-buffers-encode.md)
-**加密**
-[网络传输安全](http://mrpeak.cn/blog/encrypt/)
-[移动端的加解密](http://talkingdata.me/2016/06/22/encryption/)
-**QUIC**
-[科普：QUIC协议原理分析](https://zhuanlan.zhihu.com/p/32553477)
-**优化**
-[移动 APP 网络优化概述](https://blog.cnbang.net/tech/3531/)
-[iOS 客户端 HTTPS 防中间人攻击实践](http://www.jianshu.com/p/70f17cc7b1df)
 
 # 工程
 #### 代码规范
