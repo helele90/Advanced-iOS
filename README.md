@@ -102,32 +102,32 @@
 #### 视频
 #### 音频
 #### 应用场景
-[视频直播技术详解](http://blog.qiniu.com/archives/6606)
-[如何快速的开发一个完整的iOS直播app](https://github.com/tiantianlan/LiveExplanation)
+- [视频直播技术详解](http://blog.qiniu.com/archives/6606)
+- [如何快速的开发一个完整的iOS直播app](https://github.com/tiantianlan/LiveExplanation)
 
 ## 线程
-[Threading Programming Guide](http://yulingtianxia.com/blog/2017/08/28/Threading-Programming-Guide-1/)
-[并发编程：API 及挑战](https://www.objccn.io/issue-2-1/)
-[iOS 并发编程之 Operation Queues](http://blog.leichunfeng.com/blog/2015/07/29/ios-concurrency-programming-operation-queues/)
-[深入研究 Runloop 与线程保活](https://bestswifter.com/runloop-and-thread/)
+- [Threading Programming Guide](http://yulingtianxia.com/blog/2017/08/28/Threading-Programming-Guide-1/)
+- [并发编程：API 及挑战](https://www.objccn.io/issue-2-1/)
+- [iOS 并发编程之 Operation Queues](http://blog.leichunfeng.com/blog/2015/07/29/ios-concurrency-programming-operation-queues/)
+- [深入研究 Runloop 与线程保活](https://bestswifter.com/runloop-and-thread/)
 ###### 锁
-[[iOS] 谈谈iOS多线程的锁](https://juejin.im/post/5a0a92996fb9a0451f307479#heading-16)
-[深入理解 iOS 开发中的锁](https://bestswifter.com/ios-lock/)
+- [[iOS] 谈谈iOS多线程的锁](https://juejin.im/post/5a0a92996fb9a0451f307479#heading-16)
+- [深入理解 iOS 开发中的锁](https://bestswifter.com/ios-lock/)
 ###### GCD
-[深入理解 GCD](https://bestswifter.com/deep-gcd/)
-[iOS多线程编程——GCD与NSOperation总结](https://bestswifter.com/multithreadconclusion/)
+- [深入理解 GCD](https://bestswifter.com/deep-gcd/)
+- [iOS多线程编程——GCD与NSOperation总结](https://bestswifter.com/multithreadconclusion/)
 ###### 并发
- [Swift 中的并发编程(第一部分：现状）](http://swift.gg/2017/09/04/all-about-concurrency-in-swift-1-the-present/ "Swift 中的并发编程(第一部分：现状）")
-[All about Concurrency in Swift - Part 2: The Future](https://www.uraimo.com/2017/07/22/all-about-concurrency-in-swift-2-the-future)
-[Concurrency in Swift: One approach](https://gist.github.com/lattner/31ed37682ef1576b16bca1432ea9f782)
-[Swift 并行编程现状和展望](https://onevcat.com/2016/12/concurrency/)
+- [Swift 中的并发编程(第一部分：现状）](http://swift.gg/2017/09/04/all-about-concurrency-in-swift-1-the-present/ "Swift 中的并发编程(第一部分：现状）")
+- [All about Concurrency in Swift - Part 2: The Future](https://www.uraimo.com/2017/07/22/all-about-concurrency-in-swift-2-the-future)
+- [Concurrency in Swift: One approach](https://gist.github.com/lattner/31ed37682ef1576b16bca1432ea9f782)
+- [Swift 并行编程现状和展望](https://onevcat.com/2016/12/concurrency/)
 ###### 协程
 
 
 #### 存储
-######SQLite
-######Core Data
-######Realm
+###### SQLite
+###### Core Data
+###### Realm
 
 # 工程
 ## 代码规范
