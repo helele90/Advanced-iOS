@@ -7,6 +7,13 @@
 - [LeetCode](https://leetcode-cn.com/)
 
 ## 计算机系统
+###### 位运算
+###### 堆栈
+###### 虚拟内存
+###### 线程
+###### 进程
+###### 动态静态链接
+###### I/O
 - [深入理解计算机系统](https://book.douban.com/subject/26912767/)
 
 ## 网络
@@ -76,6 +83,10 @@
 - [从 Swift 的面向协议编程说开去](https://gold.xitu.io/post/5831af478ac2470061be93cc)
 - [面向协议编程与 Cocoa 的邂逅](https://onevcat.com/2016/11/pop-cocoa-1/)
 
+#### 内存管理
+- [Swift 所有权宣言](https://onevcat.com/2017/02/ownership/)
+- [Rust 内存所有权](https://kaisery.github.io/trpl-zh-cn/ch04-01-what-is-ownership.html)
+
 # iOS
 ## 图形渲染
 ####渲染引擎
@@ -109,6 +120,9 @@
 - [离屏渲染优化详解](http://www.jianshu.com/p/ca51c9d3575b)
 - [iOS 性能调优](http://www.jianshu.com/p/05b68c84913a)
 - [UIKit 性能调优(主要是UITableView)](https://bestswifter.com/uikitxing-neng-diao-you-shi-zhan-jiang-jie/)
+####
+ARKit
+OpenCV
 
 ## 音视频多媒体
 #### 视频
@@ -116,6 +130,7 @@
 #### 应用场景
 - [视频直播技术详解](http://blog.qiniu.com/archives/6606)
 - [如何快速的开发一个完整的iOS直播app](https://github.com/tiantianlan/LiveExplanation)
+###### ffmpeg
 
 ## 并发
 ###### 线程
@@ -129,7 +144,7 @@
 ###### GCD
 - [深入理解 GCD](https://bestswifter.com/deep-gcd/)
 - [iOS多线程编程——GCD与NSOperation总结](https://bestswifter.com/multithreadconclusion/)
-###### 协程
+###### 协程 & actor
 - [Swift 中的并发编程(第一部分：现状）](http://swift.gg/2017/09/04/all-about-concurrency-in-swift-1-the-present/ "Swift 中的并发编程(第一部分：现状）")
 - [All about Concurrency in Swift - Part 2: The Future](https://www.uraimo.com/2017/07/22/all-about-concurrency-in-swift-2-the-future)
 - [Concurrency in Swift: One approach](https://gist.github.com/lattner/31ed37682ef1576b16bca1432ea9f782)
@@ -161,10 +176,10 @@
 - [Objc App 架构](https://www.objccn.io/products/app-architecture)
 
 ## 性能优化
-[iOS-Performance-Optimization](https://github.com/skyming/iOS-Performance-Optimization)
+- [iOS-Performance-Optimization](https://github.com/skyming/iOS-Performance-Optimization)
 
 ## 持续集成
-[自动化测试](http://blog.csdn.net/hello_hwc/article/details/60957515)
+- [自动化测试](http://blog.csdn.net/hello_hwc/article/details/60957515)
 
 <!--
 ####其他
