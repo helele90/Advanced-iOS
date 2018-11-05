@@ -7,13 +7,6 @@
 - [LeetCode](https://leetcode-cn.com/)
 
 ## 计算机系统
-###### 位运算
-###### 堆栈
-###### 虚拟内存
-###### 线程
-###### 进程
-###### 动态静态链接
-###### I/O
 - [深入理解计算机系统](https://book.douban.com/subject/26912767/)
 
 ## 网络
@@ -165,10 +158,12 @@ OpenCV
 - [Google Swift Style Guide](https://google.github.io/swift/)
 
 ## 架构
+###### 组件化
 - [iOS 组件化 —— 路由设计思路分析](https://juejin.im/post/58b2aad6b123db0052cc9edd)
 - [iOS组件化方案](http://mrpeak.cn/blog/module/)
 - [iOS应用架构现状分析](http://mrpeak.cn/blog/ios-arch/)
 - [移动端路由层设计](http://www.jianshu.com/p/be7da3ed4100)
+###### MVX
 - [响应式架构](http://blog.mrriddler.com/2017/06/28/iOS%E5%93%8D%E5%BA%94%E5%BC%8F%E6%9E%B6%E6%9E%84/)
 - [单向数据流函数式](https://onevcat.com/2017/07/state-based-viewcontroller/)
 - [MVX](http://draveness.me/mvx-model.html)
