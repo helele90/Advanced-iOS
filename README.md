@@ -28,7 +28,7 @@
 - [高效的数据压缩编码方式 Protobuf](https://github.com/halfrost/Halfrost-Field/blob/master/contents/Protocol/Protocol-buffers-encode.md)
 ###### 加密
 - [网络传输安全](http://mrpeak.cn/blog/encrypt/)
-- [移动端的加解密](http://talkingdata.me/2016/06/22/encryption/)
+- [移动端的加解密](https://zhuanlan.zhihu.com/p/22670078)
 ###### QUIC
 - [科普：QUIC协议原理分析](https://zhuanlan.zhihu.com/p/32553477)
 ###### 优化
