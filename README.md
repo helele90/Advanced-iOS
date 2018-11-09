@@ -34,6 +34,8 @@
 ###### 优化
 - [移动 APP 网络优化概述](https://blog.cnbang.net/tech/3531/)
 - [iOS 客户端 HTTPS 防中间人攻击实践](http://www.jianshu.com/p/70f17cc7b1df)
+###### URLProtocol
+
 
 ## 数据库
 ###### SQL
@@ -78,7 +80,9 @@
 
 #### 内存管理
 - [Swift 所有权宣言](https://onevcat.com/2017/02/ownership/)
+<!--
 - [Rust 内存所有权](https://kaisery.github.io/trpl-zh-cn/ch04-01-what-is-ownership.html)
+-->
 
 # iOS
 ## 图形渲染
@@ -86,7 +90,7 @@
 ###### OpenGL
 [LearnOpenGL](https://learnopengl-cn.github.io/)
 ###### Metal
-[](https://learnopengl-cn.github.io/)
+[Metal Programming Guide](https://developer.apple.com/library/archive/documentation/Miscellaneous/Conceptual/MetalProgrammingGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40014221)
 #### 布局
 ###### AutoLayout
 - [高性能 Auto Layout](https://juejin.im/post/5b1ea5046fb9a01e2b2cc4a7)
@@ -204,9 +208,9 @@ OpenCV
 -->
 
 ## 跨平台
-- ###### HTML5
-- ###### [React Native](https://facebook.github.io/react-native/)
-- ###### [flutter](https://flutter.io/get-started/install/)
+###### HTML5
+###### [React Native](https://facebook.github.io/react-native/)
+###### [Flutter](https://flutter.io/get-started/install/)
 
 ## 杂七杂八
 - [iOS唯一标识符](https://www.jianshu.com/p/a2879b2cbe04)
