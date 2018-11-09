@@ -63,7 +63,7 @@
 - [深入研究Block用weakSelf、strongSelf、@weakify、@strongify解决循环引用](http://www.jianshu.com/p/701da54bd78c)
 ###### Category
 - [深入理解Objective-C：Category](http://tech.meituan.com/DiveIntoCategory.html)
-- [结合 category 工作原理分析 OC2.0 中的 runtime](http://www.jianshu.com/p/d66d65314add)待更新
+- [结合 category 工作原理分析 OC2.0 中的 runtime](https://bestswifter.com/runtime-category/)
 ###### KVO
 - [iOS 深入理解KVO实现](https://juejin.im/post/58f9ffe261ff4b006655238f)
 ###### 其他
@@ -109,7 +109,7 @@
 - [Core Text Programming Guide](https://developer.apple.com/library/archive/documentation/StringsTextFonts/Conceptual/CoreText_Programming/Introduction/Introduction.html#//apple_ref/doc/uid/TP40005533-CH1-SW1)
 - [WWDC 2018：TextKit 最佳实践](https://juejin.im/post/5b27451a51882574eb597e04)
 #### 图片处理
-- [iOS中的imageIO与image解码](http://blog.mrriddler.com/2016/07/20/iOS%E4%B8%AD%E7%9A%84imageIO%E4%B8%8Eimage%E8%A7%A3%E7%A0%81/)待更新
+- [iOS中的imageIO与image解码](https://blog.mrriddler.com/iOS%E4%B8%AD%E7%9A%84imageIO%E4%B8%8Eimage%E8%A7%A3%E7%A0%81/)
 - [iOS 处理图片的一些小 Tip](https://blog.ibireme.com/2015/11/02/ios_image_tips/)
 - [谈谈 iOS 中图片的解压缩](http://blog.leichunfeng.com/blog/2017/02/20/talking-about-the-decompression-of-the-image-in-ios/#jtss-tsina)
 - [Image Resizing Techniques](http://nshipster.com/image-resizing/)
