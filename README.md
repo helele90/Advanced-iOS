@@ -21,7 +21,7 @@
 - [从零开发移动端IM](http://www.52im.net/forum.php?mod=viewthread&tid=464&extra=page%3D1%26filter%3Ddigest%26digest%3D1%26orderby%3Dlastpost)
 ###### HTTP/2
 - [HTTP/2 简介](https://developers.google.com/web/fundamentals/performance/http2/?hl=zh-cn)
-- [http 2.0](https://www.gitbook.com/book/ye11ow/http2-explained)
+- [http2协议](https://ye11ow.gitbooks.io/http2-explained/content/part6.html)
 - [HTTP,HTTP2.0,SPDY,HTTPS你应该知道的一些事](http://www.alloyteam.com/2016/07/httphttp2-0spdyhttps-reading-this-is-enough/)
 ###### HTTPS
 - [TLS 1.3](https://zhuanlan.zhihu.com/p/28850798)
