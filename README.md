@@ -23,6 +23,7 @@
 - [HTTP/2 简介](https://developers.google.com/web/fundamentals/performance/http2/?hl=zh-cn)
 - [HTTP,HTTP2.0,SPDY,HTTPS你应该知道的一些事](http://www.alloyteam.com/2016/07/httphttp2-0spdyhttps-reading-this-is-enough/)
 ###### HTTPS
+- [九个问题从入门到熟悉HTTPS](https://juejin.im/post/58c5268a61ff4b005d99652a)
 - [TLS 1.3](https://zhuanlan.zhihu.com/p/28850798)
 ###### 数据传输格式
 - [高效的数据压缩编码方式 Protobuf](https://github.com/halfrost/Halfrost-Field/blob/master/contents/Protocol/Protocol-buffers-encode.md)
