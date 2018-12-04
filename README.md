@@ -131,7 +131,7 @@ OpenCV
 #### 应用场景
 - [视频直播技术详解](http://blog.qiniu.com/archives/6606)
 - [如何快速的开发一个完整的iOS直播app](https://github.com/tiantianlan/LiveExplanation)
-###### ffmpeg
+###### FFmpeg
 
 ## 并发
 ###### 线程
