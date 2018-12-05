@@ -128,6 +128,7 @@ OpenCV
 ## 音视频多媒体
 #### 视频
 #### 音频
+- [iOS音频播放](http://msching.github.io/blog/2014/07/07/audio-in-ios/)
 #### 应用场景
 - [视频直播技术详解](http://blog.qiniu.com/archives/6606)
 - [如何快速的开发一个完整的iOS直播app](https://github.com/tiantianlan/LiveExplanation)
