@@ -104,7 +104,6 @@
 - [深入理解RunLoop](https://blog.ibireme.com/2015/05/18/runloop/)
 #### 触摸事件机制
 - [iOS触摸事件全家桶](http://www.jianshu.com/p/c294d1bd963d)
-- [iOS 事件处理机制与图像渲染过程](http://www.jianshu.com/p/8459cdfc77fe)
 #### 图形绘制
 - [绘制像素到屏幕上](https://www.objccn.io/issue-3-1/)
 - [iOS 保持界面流畅的技巧](http://blog.ibireme.com/2015/11/12/smooth_user_interfaces_for_ios/)
