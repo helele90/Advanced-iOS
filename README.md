@@ -13,8 +13,6 @@
 ## 网络
 ###### TCP/IP
 - [TCP/IP](https://juejin.im/post/5a2ff1126fb9a04522077b44)
-###### WebSocket
-- [全双工通信的 WebSocket](https://github.com/halfrost/Halfrost-Field/blob/master/contents/Protocol/WebSocket.md)
 ###### 即时通讯
 - [iOS即时通讯，从入门到“放弃”？](http://www.jianshu.com/p/2dbb360886a8)
 - [IM 即时通讯技术在多应用场景下的技术实现，以及性能调优](http://www.jianshu.com/p/8cd908148f9e)
@@ -25,13 +23,15 @@
 ###### HTTPS
 - [九个问题从入门到熟悉HTTPS](https://juejin.im/post/58c5268a61ff4b005d99652a)
 - [TLS 1.3](https://zhuanlan.zhihu.com/p/28850798)
+###### WebSocket
+- [全双工通信的 WebSocket](https://github.com/halfrost/Halfrost-Field/blob/master/contents/Protocol/WebSocket.md)
+###### QUIC
+- [科普：QUIC协议原理分析](https://zhuanlan.zhihu.com/p/32553477)
 ###### 数据传输格式
 - [高效的数据压缩编码方式 Protobuf](https://github.com/halfrost/Halfrost-Field/blob/master/contents/Protocol/Protocol-buffers-encode.md)
 ###### 加密
 - [网络传输安全](http://mrpeak.cn/blog/encrypt/)
 - [移动端的加解密](https://zhuanlan.zhihu.com/p/22670078)
-###### QUIC
-- [科普：QUIC协议原理分析](https://zhuanlan.zhihu.com/p/32553477)
 ###### 优化
 - [移动 APP 网络优化概述](https://blog.cnbang.net/tech/3531/)
 - [iOS 客户端 HTTPS 防中间人攻击实践](http://www.jianshu.com/p/70f17cc7b1df)
