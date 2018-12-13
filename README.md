@@ -179,8 +179,9 @@ OpenCV
 - [深入分析MVC、MVP、MVVM、VIPER](https://juejin.im/post/59fc625d51882529c0468dc9)
 - [Objc App 架构](https://www.objccn.io/products/app-architecture)
 
-## 性能优化
+## 性能检测
 - [iOS-Performance-Optimization](https://github.com/skyming/iOS-Performance-Optimization)
+- [iOS 性能监控](https://github.com/aozhimin/iOS-Monitor-Platform)
 
 ## 持续集成
 - [自动化测试](http://blog.csdn.net/hello_hwc/article/details/60957515)
