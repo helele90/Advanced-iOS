@@ -137,7 +137,7 @@ OpenCV
 ## 并发
 ###### 线程
 - [Threading Programming Guide](http://yulingtianxia.com/blog/2017/08/28/Threading-Programming-Guide-1/)
-- [并发编程：API 及挑战](https://www.objccn.io/issue-2-1/)
+- [并发编程：API 及挑战](https://objccn.io/issue-2-1/)
 - [iOS 并发编程之 Operation Queues](http://blog.leichunfeng.com/blog/2015/07/29/ios-concurrency-programming-operation-queues/)
 - [深入研究 Runloop 与线程保活](https://bestswifter.com/runloop-and-thread/)
 ###### 锁
