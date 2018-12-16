@@ -182,6 +182,8 @@ OpenCV
 ## 性能检测
 #### 网络
 - [](https://juejin.im/post/5b1602906fb9a01e3542f08c)
+###### 启动时间
+[App 启动时间：过去，现在和未来](https://techblog.toutiao.com/2017/07/05/session413/)
 ####
 - [iOS-Performance-Optimization](https://github.com/skyming/iOS-Performance-Optimization)
 - [iOS 性能监控](https://github.com/aozhimin/iOS-Monitor-Platform)
