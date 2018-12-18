@@ -133,6 +133,7 @@ OpenCV
 - [视频直播技术详解](http://blog.qiniu.com/archives/6606)
 - [如何快速的开发一个完整的iOS直播app](https://github.com/tiantianlan/LiveExplanation)
 ###### FFmpeg
+- [FFMPEG视音频编解码零基础学习方法](https://blog.csdn.net/leixiaohua1020/article/details/15811977)
 
 ## 并发
 ###### 线程
@@ -191,11 +192,6 @@ OpenCV
 ## 持续集成
 - [自动化测试](http://blog.csdn.net/hello_hwc/article/details/60957515)
 
-<!--
-####其他
-[给 Pod 添加资源文件](http://blog.xianqu.org/2015/08/pod-resources/?utm_source=tuicool&utm_medium=referral)
-[iOS 实现快速切换主题详细教程](https://gold.xitu.io/post/58563b3a128fe1006b6b6e7a)
--->
 ## WWDC
 ###### WWDC2017
 - [WWDC17内参](https://xiaozhuanlan.com/wwdc17)
