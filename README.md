@@ -57,7 +57,7 @@
 - [神经病院Objective-C Runtime出院第三天——如何正确使用Runtime](http://www.jianshu.com/p/db6dc23834e3)
 - [Objective-C 小记](http://kylinroc.github.io/)
 ###### Autorelease
-- [深入理解 Autorelease](https://juejin.im/post/5a66e28c6fb9a01cbf387da1)
+- [黑幕背后的 Autorelease](https://blog.sunnyxx.com/2014/10/15/behind-autorelease/)
 - [iOS开发笔记（七）：深入理解 Autorelease](https://juejin.im/post/5a66e28c6fb9a01cbf387da1#heading-28)
 ###### 消息转发
 - [神经病院Objective-C Runtime住院第二天——消息发送与转发](http://www.jianshu.com/p/4d619b097e20)
