@@ -19,6 +19,7 @@
 - [IM 即时通讯技术在多应用场景下的技术实现，以及性能调优](http://www.jianshu.com/p/8cd908148f9e)
 - [从零开发移动端IM](http://www.52im.net/forum.php?mod=viewthread&tid=464&extra=page%3D1%26filter%3Ddigest%26digest%3D1%26orderby%3Dlastpost)
 ###### HTTP/2
+- [MDN HTTP](https://developer.mozilla.org/zh-CN/docs/Web/HTTP)
 - [HTTP/2 简介](https://developers.google.com/web/fundamentals/performance/http2/?hl=zh-cn)
 - [HTTP,HTTP2.0,SPDY,HTTPS你应该知道的一些事](http://www.alloyteam.com/2016/07/httphttp2-0spdyhttps-reading-this-is-enough/)
 ###### HTTPS
