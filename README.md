@@ -192,7 +192,10 @@ OpenCV
 
 ## 持续集成
 - [自动化测试](http://blog.csdn.net/hello_hwc/article/details/60957515)
-
+## 代码管理
+###### Git
+[Learn Version Control with Git](https://www.git-tower.com/learn/git/ebook/cn/command-line/introduction#start)
+###### Cocoapods
 ## WWDC
 ###### WWDC2017
 - [WWDC17内参](https://xiaozhuanlan.com/wwdc17)
