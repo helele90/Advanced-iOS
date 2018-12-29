@@ -97,6 +97,7 @@
 ###### Metal
 - [Metal Programming Guide](https://developer.apple.com/library/archive/documentation/Miscellaneous/Conceptual/MetalProgrammingGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40014221)
 - [WWDC 2018：写给 OpenGL 开发者们的 Metal 开发指南](https://juejin.im/post/5b1e8fade51d45068f65d6e8)
+- [[译]Metal 渲染管线教程](https://juejin.im/post/5b9dbd76e51d450e877f3780#heading-11)
 #### 布局
 ###### AutoLayout
 - [高性能 Auto Layout](https://juejin.im/post/5b1ea5046fb9a01e2b2cc4a7)
