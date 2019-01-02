@@ -168,7 +168,9 @@ OpenCV
 - [github/swift-style-guide](https://github.com/Artwalk/swift-style-guide/blob/master/README_CN.md)
 - [raywenderlich/swift-style-guide](https://github.com/raywenderlich/swift-style-guide)
 - [Google Swift Style Guide](https://google.github.io/swift/)
-
+## 设计模式
+- [Design Patterns implemented in Swift](https://github.com/ochococo/Design-Patterns-In-Swift#creational)
+- [23个经典设计模式的Swift实现](https://juejin.im/post/5aaa2943f265da239c7b15c4#heading-15)
 ## 架构
 ###### 组件化
 - [iOS 组件化 —— 路由设计思路分析](https://juejin.im/post/58b2aad6b123db0052cc9edd)
