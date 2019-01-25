@@ -227,3 +227,4 @@ OpenCV
 
 ## 杂七杂八
 - [iOS唯一标识符](https://www.jianshu.com/p/a2879b2cbe04)
+- [iOS App 签名的原理](http://blog.cnbang.net/tech/3386/)
