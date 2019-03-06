@@ -128,6 +128,7 @@ ARKit
 OpenCV
 
 ## 音视频多媒体
+- [即时通讯音视频开发](http://www.52im.net/thread-228-1-1.html)
 #### 视频
 #### 音频
 - [iOS音频播放](http://msching.github.io/blog/2014/07/07/audio-in-ios/)
