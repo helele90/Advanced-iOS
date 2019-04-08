@@ -232,6 +232,8 @@ OpenCV
 ##### JavaScriptCore
 - [深入剖析 JavaScriptCore](https://ming1016.github.io/2018/04/21/deeply-analyse-javascriptcore/)
 ##### HTML5
+###### 小程序
+- [小程序渲染架构设计](https://mp.weixin.qq.com/s/D_7yvtEdwq8NM_tcb1YjMw)
 ###### H5容器
 ##### [React Native](https://facebook.github.io/react-native/)
 ##### [Flutter](https://flutter.io/get-started/install/)
