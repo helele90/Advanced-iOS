@@ -187,10 +187,14 @@ OpenCV
 - [Objc App 架构](https://www.objccn.io/products/app-architecture)
 
 ## 性能检测
-#### 网络
+###### 网络
 - [iOS 流量监控分析](https://juejin.im/post/5b1602906fb9a01e3542f08c)
 ###### 启动时间
 - [App 启动时间：过去，现在和未来](https://techblog.toutiao.com/2017/07/05/session413/)
+###### 内存
+- [iOS微信内存监控](https://mp.weixin.qq.com/s/CiqMlEIp1Ir2EJSDGgMooQ)
+###### 卡顿
+- [iOS微信卡顿监控](https://github.com/Tencent/matrix/wiki/Matrix-for-iOS-macOS-%E5%8D%A1%E9%A1%BF%E7%9B%91%E6%8E%A7%E5%8E%9F%E7%90%86)
 ####
 - [iOS-Performance-Optimization](https://github.com/skyming/iOS-Performance-Optimization)
 - [iOS 性能监控](https://github.com/aozhimin/iOS-Monitor-Platform)
